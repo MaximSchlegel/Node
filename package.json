@@ -1,0 +1,15 @@
+{
+	"name" : "EIA2 Server",
+	"version" : "1.0.0",
+	"description" : "First Server",
+	"author" : "Maxim Schlegel",
+	"main" : "Server.js",
+	"scripts" : {
+		"start" : "node Server.js"
+	},
+	"engines" : {
+		"node" : "6.11.1"
+	},
+	"dependencies" : {
+	}
+}
