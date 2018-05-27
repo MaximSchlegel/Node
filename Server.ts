@@ -39,15 +39,12 @@ namespace Server {
                 case "insert":
                     insert(query, _response);
                     break;
-
                 case "refresh":
                     refresh(_response);
                     break;
-
                 case "search":
                     search(query, _response);
                     break;
-
                 default:
                     error();
             }
